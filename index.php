@@ -21,19 +21,18 @@ if ($curr_dir != "git-jozan" && $curr_dir != "gitjoe") {
 <?php jo_head("Home"); ?>
 <?php jo_sidebar(); ?>
 <div class="body-contents">
-	<h2>About this site</h2>
+	<h2>About GitJoe</h2>
 	<p>
-		Welcome to my personnal blog. Here you can find my tips and articles
-		on various tech and programming subjects.
-		<br><br>
-		The site is still in active developpement, stay tuned.
+		This website is my public front-end for me and my
+		pals most sweet repositories, hosted here on this server!
+		<br>
+		<br>
+		Check out <a href="index.php#users">GitJoe users repos</a> right now!
 	</p>
-	<h2>About me</h2>
+	<h2>How to be on GitJoe</h2>
 	<p>
-		I am a student for
-		<a href="https://www.42lyon.fr/" target="_blank">42Lyon</a>
-		IT school based in Lyon, France.
-		I work on various personnal project beside that.
+		If you too want your free, BSD-powered, 
 	</p>
+	<h2 class="users">GitJoe users</h2>
 </div>
 <?php jo_footer(); ?>

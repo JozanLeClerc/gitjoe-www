@@ -17,14 +17,14 @@ jo_head($title) {
 ?>
 	<html>
 		<head>
-			<title>GitJoe's - Joe's git - <?php echo "$title"; ?></title>
+			<title>GitJoe - Joe's git - <?php echo "$title"; ?></title>
 			<link rel="stylesheet" type="text/css" href="<?php echo $prefix; ?>css/site.css">
 			<meta charset="UTF-8">
 		</head>
 		<body>
 			<div class="fullpage">
 				<header>
-					<h1><a href="<?php echo $prefix; ?>index.php">Joe's dev blog - <?php echo "$title"; ?></a></h1>
+					<h1><a href="<?php echo $prefix; ?>index.php">GitJoe - Joe's git - <?php echo "$title"; ?></a></h1>
 				</header>
 <?php
 }
@@ -35,7 +35,7 @@ jo_bloat_head($title) {
 ?>
 	<html>
 		<head>
-			<title> GitJoe's - Joe's git - <?php echo "$title"; ?></title>
+			<title> GitJoe - Joe's git - <?php echo "$title"; ?></title>
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 			<link rel="stylesheet" type="text/css" href="<?php echo $prefix; ?>css/site.css">
 			<meta charset="UTF-8">
@@ -43,7 +43,7 @@ jo_bloat_head($title) {
 		<body>
 			<div class="fullpage">
 				<header>
-					<h1><a href="<?php echo $prefix; ?>index.php">Joe's dev blog - <?php echo "$title"; ?></a></h1>
+					<h1><a href="<?php echo $prefix; ?>index.php">GitJoe - Joe's git - <?php echo "$title"; ?></a></h1>
 				</header>
 <?php
 }
@@ -58,7 +58,7 @@ jo_sidebar() {
 			<li><a href="<?php echo $prefix; ?>jozan/">jozan</a></li>
 			<li><a href="<?php echo $prefix; ?>salad/">salad</a></li>
 			<hr>
-			<li><a href="https://jozanleclerc.xyz/" target="_blank">JozanLeClerc.xyz</a></li>
+			<li><a href="https://jozanleclerc.xyz/" target="_blank">jozanleclerc.xyz</a></li>
 		</ul>
 	</div>
 <?php
