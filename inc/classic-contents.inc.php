@@ -11,8 +11,6 @@
 <!-- ----------------------------------------------------------------------- -->
 
 <?php
-include "org.inc.php";
-
 function
 jo_head($title) {
 	global $prefix;
@@ -22,7 +20,6 @@ jo_head($title) {
 			<title>GitJoe's - Joe's git - <?php echo "$title"; ?></title>
 			<link rel="stylesheet" type="text/css" href="<?php echo $prefix; ?>css/site.css">
 			<meta charset="UTF-8">
-			<?php jo_org_inc(); ?>
 		</head>
 		<body>
 			<div class="fullpage">
@@ -38,11 +35,10 @@ jo_bloat_head($title) {
 ?>
 	<html>
 		<head>
-			<title>Joe's own website - <?php echo "$title"; ?></title>
+			<title> GitJoe's - Joe's git - <?php echo "$title"; ?></title>
 			<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 			<link rel="stylesheet" type="text/css" href="<?php echo $prefix; ?>css/site.css">
 			<meta charset="UTF-8">
-			<?php jo_org_inc(); ?>
 		</head>
 		<body>
 			<div class="fullpage">
@@ -59,8 +55,8 @@ jo_sidebar() {
 
 	<div class="sidebar">
 		<ul>
-			<li><a href="<?php echo $prefix; ?>index.php">Jozan</a></li>
-			<li><a href="<?php echo $prefix; ?>index.php">salad</a></li>
+			<li><a href="<?php echo $prefix; ?>jozan/">jozan</a></li>
+			<li><a href="<?php echo $prefix; ?>salad/">salad</a></li>
 			<hr>
 			<li><a href="https://jozanleclerc.xyz/" target="_blank">JozanLeClerc.xyz</a></li>
 		</ul>
