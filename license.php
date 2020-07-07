@@ -13,7 +13,7 @@
 <?php
 $prefix = "./";
 $curr_dir = basename(getcwd());
-if ($curr_dir != "jozan" && $curr_dir != "jozanleclerc.xyz") {
+if ($curr_dir != "git-jozan" && $curr_dir != "gitjoe") {
 	$prefix = "../";
 }
 ?>
