@@ -27,12 +27,22 @@ if ($curr_dir != "git-jozan" && $curr_dir != "gitjoe") {
 		pals most sweet repositories, hosted here on this server!
 		<br>
 		<br>
-		Check out <a href="index.php#users">GitJoe users repos</a> right now!
+		Check out <a href="index.php#users">GitJoe users repos</a> bellow right now!
 	</p>
-	<h2>How to be on GitJoe</h2>
+	<h2>How to be on GitJoe?</h2>
 	<p>
-		If you too want your free, BSD-powered, 
+		If you too want your free, BSD-powered, BSD-licensed, uncensored,
+		unbloated, JavaScript-free and fancy-framework-free
+		git repo hosting, get in touch with me with one of these
+		<a href="https://jozanleclerc.xyz/links.php" target="_blank">links</a>
+		or my email directly: <b>rbousset@42lyon.fr</b>. (no porn pls)
 	</p>
-	<h2 class="users">GitJoe users</h2>
+	<h2 class="users">GitJoe users repositories</h2>
+	<p>
+		<ul>
+			<li><a href="jozan/">jozan</a></li>
+			<li><a href="salad/">salad</a></li>
+		</ul>
+	</p>
 </div>
 <?php jo_footer(); ?>
