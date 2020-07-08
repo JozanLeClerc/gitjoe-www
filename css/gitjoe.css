@@ -85,6 +85,18 @@ a:active {
 	text-decoration: none;
 }
 
+a#h {
+	color: #d3869b;
+}
+
+a#d {
+	color: #fb4934;
+}
+
+a#i {
+	color: #b8bb26;
+}
+
 div#content tr:hover {
 	background-color: #d1e2f4;
 }
