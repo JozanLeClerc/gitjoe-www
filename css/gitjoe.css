@@ -114,11 +114,11 @@ a.h:hover {
 }
 
 a.d:hover {
-	color: #9d0006;
+	background-color: #ff7070;
 }
 
 a.i:hover {
-	color: #20871a;
+	background-color: #f0d78a;
 }
 
 div#content tr:hover {
