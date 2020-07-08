@@ -31,42 +31,13 @@ header {
 }
 
 
-header h1 {
+h1 {
 	font-size: x-large;
 	font-weight: bold;
 	text-align: center;
 	padding: 5pt;
 	margin: 0pt;
 	color: #292929;
-}
-
-header a {
-	margin: 0pt;
-	border-collapse: collapse;
-}
-
-header a:link {
-	color: #292929;
-	background-color: transparent;
-	text-decoration: none;
-}
-
-header a:visited {
-	color: #292929;
-	background-color: transparent;
-	text-decoration: none;
-}
-
-header a:hover {
-	color: #292929;
-	background-color: transparent;
-	text-decoration: none;
-}
-
-header a:active {
-	color: #292929;
-	background-color: transparent;
-	text-decoration: none;
 }
 
 footer {
