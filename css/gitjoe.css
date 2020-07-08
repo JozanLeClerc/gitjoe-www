@@ -86,27 +86,27 @@ a:active {
 }
 
 .h {
-	color: #d3869b;
+	color: #b16286;
 }
 
 .d {
-	color: #fb4934;
+	color: #cc241d;
 }
 
 .i {
-	color: #b8bb26;
+	color: #98871a;
 }
 
 a.h {
-	color: #d3869b;
+	color: #b16286;
 }
 
 a.d {
-	color: #fb4934;
+	color: #cc241d;
 }
 
 a.i {
-	color: #b8bb26;
+	color: #98871a;
 }
 
 div#content tr:hover {
