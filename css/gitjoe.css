@@ -94,7 +94,7 @@ a:active {
 }
 
 .i {
-	color: #58871a;
+	color: #20871a;
 }
 
 a.h {
@@ -106,7 +106,19 @@ a.d {
 }
 
 a.i {
-	color: #58871a;
+	color: #20871a;
+}
+
+a.h:hover {
+	color: #8f3f71;
+}
+
+a.d:hover {
+	color: #9d0006;
+}
+
+a.i:hover {
+	color: #20871a;
 }
 
 div#content tr:hover {
