@@ -67,7 +67,7 @@ a:active {
 	text-decoration: none;
 }
 
-div#content td :hover {
+div#content tr:hover {
 	background-color: #d1e2f4;
 }
 
