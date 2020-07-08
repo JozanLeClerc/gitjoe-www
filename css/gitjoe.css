@@ -3,7 +3,7 @@
 /*   File     : site.css                                         /_________/  */
 /*   Authors  : Joe                                                    |      */
 /*   Date     : 06/2020                                                |      */
-/*   Info     : Style                                                  |      */
+/*   Info     : Style for GitJoe                                       |      */
 /*                                                             /       |      */
 /*                                                             \       /      */
 /*                                                              \_____/       */
@@ -16,9 +16,6 @@ body {
 	height: 100%;
 	min-height: 100%;
 	font-family: sans-serif;
-}
-
-div.fullpage {
 	background-color: #f5f5f5;
 	position: relative;
 	min-height: 100%;
