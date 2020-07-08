@@ -43,7 +43,7 @@ div#content {
 }
 
 hr {
-	background-color: #999;
+	border-top: 1px solid #999;
 	margin-left: 5%;
 	margin-right: 5%;
 }
