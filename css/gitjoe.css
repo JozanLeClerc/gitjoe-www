@@ -125,3 +125,27 @@ div#content tr:hover {
 	background-color: #d1e2f4;
 }
 
+a.line {
+	color: #8f3f71;
+}
+
+a.line:hover {
+	background-color: #ffafef;
+}
+
+pre.blob {
+	font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
+	font-size: smaller;
+	background-color: #d1e2f4;
+	border-radius: 4px;
+	display: block;
+	margin: 0;
+	width: 80%;
+	overflow: auto;
+	margin-left: 1em;
+	margin-right: 1em;
+	padding: 10px 10px 10px 10px;
+	white-space: pre;
+	border: 1px solid #aaa;
+}
+
