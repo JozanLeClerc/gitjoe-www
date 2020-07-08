@@ -32,6 +32,7 @@ if ($curr_dir != "git-jozan" && $curr_dir != "gitjoe") {
 	<h2>How to be on GitJoe?</h2>
 	<p>
 		If you too want your free, BSD-powered, BSD-licensed, uncensored,
+		ad-free, untracked, telemetry-free, analytics-free
 		unbloated, JavaScript-free and fancy-framework-free
 		git repo hosting, get in touch with me with one of these
 		<a href="https://jozanleclerc.xyz/links.php" target="_blank">links</a>
