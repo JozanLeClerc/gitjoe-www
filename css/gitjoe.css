@@ -31,15 +31,18 @@ header {
 }
 
 table {
-	margin-left: 10%;
-	margin-right: 10%;
+	width: 95%;
 }
 
 div#content {
 	padding: 5pt 0 5pt 0;
 	padding-bottom: 2.5rem;
-	margin-left: 10%;
-	margin-right: 10%;
+	width: 95%;
+}
+
+hr {
+	width: 95%;
+	color: #999;
 }
 
 h1 {
