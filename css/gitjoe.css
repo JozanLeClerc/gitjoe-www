@@ -125,15 +125,11 @@ div#content tr:hover {
 	background-color: #d1e2f4;
 }
 
-a.line {
-	color: #8f3f71;
-}
-
 a.line:hover {
-	background-color: #ffafef;
+	background-color: #d1e2f4;
 }
 
-pre#blob {
+pre {
 	font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
 	font-size: smaller;
 	background-color: #d1e2f4;
