@@ -56,6 +56,11 @@ h1 {
 	color: #292929;
 }
 
+td.td_author {
+	font-weight: bold;
+	color: #24c;
+}
+
 a {
 	margin: 0pt;
 	border-collapse: collapse;
