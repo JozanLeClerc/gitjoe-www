@@ -140,6 +140,8 @@ a.line:hover {
 pre {
 	font-family: SFMono-Regular, Consolas, "Liberation Mono", Menlo, monospace;
 	font-size: smaller;
+	tab-size: 4;
+	-moz-tab-size: 4;
 	background-color: #dfdfdf;
 	border-radius: 4px;
 	display: block;
