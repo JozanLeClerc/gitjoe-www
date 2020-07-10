@@ -56,7 +56,7 @@ jo_sidebar() {
 	<div class="sidebar">
 		<ul>
 			<li><a href="<?php echo $prefix; ?>jozan/">jozan</a></li>
-			<!-- <li><a href="<?php echo $prefix; ?>salad/">salad</a></li> -->
+			<li><a href="<?php echo $prefix; ?>salad/">salad</a></li>
 			<li><a href="<?php echo $prefix; ?>salad-joe/">salad-joe</a></li>
 			<hr>
 			<li><a href="https://jozanleclerc.xyz/" target="_blank">jozanleclerc.xyz</a></li>

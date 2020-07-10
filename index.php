@@ -42,7 +42,7 @@ if ($curr_dir != "git-jozan" && $curr_dir != "gitjoe") {
 	<p>
 		<ul>
 			<li><a href="jozan/">jozan</a></li>
-			<!-- <li><a href="salad/">salad</a></li> -->
+			<li><a href="salad/">salad</a></li>
 			<li><a href="salad-joe/">salad-joe</a></li>
 		</ul>
 	</p>
