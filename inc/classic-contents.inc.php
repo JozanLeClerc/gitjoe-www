@@ -59,7 +59,7 @@ jo_sidebar() {
 			<li><a href="<?php echo $prefix; ?>salad/">salad</a></li>
 			<li><a href="<?php echo $prefix; ?>salad-joe/">salad-joe</a></li>
 			<hr>
-			<li><a href="https://jozanleclerc.xyz/" target="_blank">jozanleclerc.xyz</a></li>
+			<li><a href="https://jozanleclerc.xyz/">jozanleclerc.xyz</a></li>
 		</ul>
 	</div>
 <?php
@@ -73,7 +73,7 @@ jo_footer() {
 		<p>
 			Copyright &copy; 2020, Joe -
 			see <a href="<?php echo $prefix; ?>license.php">LICENSE</a> -
-			we do not use cookies
+			this website does not use cookies
 		</p>
 	</footer>
 			</div>

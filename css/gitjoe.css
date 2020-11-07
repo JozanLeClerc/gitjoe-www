@@ -56,12 +56,12 @@ h1 {
 	padding: 0;
 	margin: 0;
 	margin-top: 0;
-	color: #24c;
+	color: #9d0006;
 }
 
 td.td_author {
 	font-weight: bold;
-	color: #24c;
+	color: #9d0006;
 }
 
 a {
@@ -70,25 +70,25 @@ a {
 }
 
 a:link {
-	color: #23b;
+	color: #9d0006;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:visited {
-	color: #23b;
+	color: #9d0006;
 	background-color: transparent;
 	text-decoration: none;
 }
 
 a:hover {
-	color: #23b;
+	color: #9d0006;
 	background-color: transparent;
 	text-decoration: underline;
 }
 
 a:active {
-	color: #23b;
+	color: #9d0006;
 	background-color: transparent;
 	text-decoration: none;
 }
@@ -142,7 +142,8 @@ pre {
 	font-size: smaller;
 	tab-size: 4;
 	-moz-tab-size: 4;
-	background-color: #dfdfdf;
+	color: #400006;
+	background-color: #eee4e4;
 	border-radius: 4px;
 	display: block;
 	margin: 0;
