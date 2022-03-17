@@ -35,7 +35,7 @@ if ($curr_dir != "git-jozan" && $curr_dir != "gitjoe") {
 		ad-free, untracked, analytics-free,
 		unbloated, JavaScript-free and fancy-framework-free
 		git repo hosting, get in touch with me with one of these
-		<a href="https://jozanofastora.xyz/links.php" target="_blank">links</a>
+		<a href="https://jozanofastora.xyz/links.php">links</a>
 		or my email directly: <b>bousset.rudy@gmail.com</b>
 	</p>
 	<h2 class="users">GitJoe users repositories</h2>
