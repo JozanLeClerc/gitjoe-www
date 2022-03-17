@@ -71,7 +71,7 @@ jo_footer() {
 ?>
 	<footer>
 		<p>
-			Copyright &copy; 2020-2021, Joe -
+			Copyright &copy; 2020-2022, Joe -
 			see <a href="<?php echo $prefix; ?>license.php">LICENSE</a> -
 			this website does not use cookies
 		</p>
