@@ -12,7 +12,7 @@
  * ========================
  *
  * gitjoe-www: css/site.css
- * Fri Apr 29 21:22:38 CEST 2022
+ * Sat Apr 30 14:16:39 CEST 2022
  * Joe
  *
  * The style
@@ -215,7 +215,7 @@ div.body-contents li {
 }
 
 div.body-contents ul {
-	padding: 0pt 0pt 0pt 1.5rem;
+	padding: 0em 6ex 0em 6ex;
 	margin: 0;
 	list-style: square;
 }
